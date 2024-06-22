@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629993099649",
+    "project_id": "simplenotetakingapp",
+    "storage_bucket": "simplenotetakingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629993099649:android:61200fbdc2a5464c119880",
+        "android_client_info": {
+          "package_name": "com.example.simplenotetakingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcx222ocf2B4x2K7v8-2ZUKZ4_0IhwMDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
